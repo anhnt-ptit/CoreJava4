@@ -7,10 +7,9 @@ public class Test1 {
 		System.out.println("Core java 4 frer");
 		System.out.println("Core java 4 333");
 		
-		System.out.println("Core java 4 333333333333333");
+		System.out.println("Core java 4 453345 4wdsfsfs dfd");
 		System.out.println("Core java 4 333");
 		System.out.println("Core java 4 333");
-		
 		
 	}
 
