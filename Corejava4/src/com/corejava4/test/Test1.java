@@ -11,6 +11,8 @@ public class Test1 {
 		System.out.println("Core java 4 333");
 		System.out.println("Core java 4 333");
 		
+		// This is comment
+		
 	}
 
 }
